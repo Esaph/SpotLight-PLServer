@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PLServer-1.0-RELEASE-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/PLServer-1.0-RELEASE-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
